@@ -1,6 +1,6 @@
 # About Me
 
-I'm a frontend web developer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a software engineer. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 ## Languages and Tools
 
