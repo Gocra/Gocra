@@ -17,7 +17,7 @@ I'm a software engineer. All coding projects are built from the ground up, from 
   <img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 </div>
 
-<br />
+<br /><br />
 
 ## Stats
 
